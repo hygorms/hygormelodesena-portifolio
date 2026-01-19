@@ -80,12 +80,14 @@ Mas, isso não é motivo para frequejos ✨
 
 <br/>
 
-<p id="contateme" style="display:flex;gap:5px;width:25%">
-<a href="https://x.com/hygorcodes"><img src="./img/twitter.png"/></a>
-<a href="https://www.linkedin.com/in/hygor-melo-de-sena-253007387/"><img src="./img/linkedin.png"/></a>
-<a href="https://www.instagram.com/hygor.codes/"><img src="./img/instagram.png"/></a>
-<a href="mailto:senahygor.pe@proton.me"><img src="./img/email.png"/></a>
-<a href="mailto:senahygor.pe@proton.me"><img src="./img/paypal.png"/></a>
+<p align="left">
+<a href="https://x.com/hygorcodes" target="_blank" ><img align="center" src="./img/twitter.png" height=40 width=40/></a>
+<a href="https://www.linkedin.com/in/hygor-melo-de-sena-253007387/" target="_blank" ><img align="center" src="./img/linkedin.png" height=40 width=40 /></a>
+<a href="https://www.instagram.com/hygor.codes/" target="_blank"><img align="center" src="./img/instagram.png" height=40 width=40 /></a>
+<a href="mailto:senahygor.pe@proton.me" target="_blank"><img align="center" src="./img/email.png" height=40 width=40 /></a>
+<a href="mailto:senahygor.pe@proton.me" target="_blank"><img align="center" src="./img/paypal.png" height=40 width=40 /></a>
+
+
 
 <!-- <img style="padding:5px" src="./assets/HeartLoveGIFbyDataCamp.gif" width=20%>
 Apoi-me através do link abaixo -->
